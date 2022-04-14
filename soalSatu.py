@@ -10,6 +10,7 @@ Cth output : 10000
 """
 
 if __name__ == "__main__":
+    print("SOAL 1")
     while True:
         try:
             #extract the input into array
