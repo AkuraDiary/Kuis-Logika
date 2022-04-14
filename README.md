@@ -11,6 +11,7 @@ Cth input : 1, 10000
 Cth output : 10000
 ```
 > output
+
 ![ssan](https://github.com/AkuraDiary/Kuis-Logika/blob/main/ss/ssan1.png)
 
 
@@ -24,6 +25,7 @@ Cth input : 5
 Cth output : Ganjil
 ```
 > output
+
 ![ssan](https://github.com/AkuraDiary/Kuis-Logika/blob/main/ss/ssan2.png)
 
 
@@ -37,6 +39,7 @@ Cth input : 5
 Cth output : 1 + 2 + 3 + 4 + 5 = 15
 ```
 > output
+
 ![ssan](https://github.com/AkuraDiary/Kuis-Logika/blob/main/ss/ssan3.png)
 
 
@@ -51,6 +54,7 @@ Cth input : [4, 6, 1, 3, 5]
 Cth output : [genap, genap, ganjil, ganjil, ganjil]
 ```
 > output
+
 ![ssan](https://github.com/AkuraDiary/Kuis-Logika/blob/main/ss/ssan4.png)
 
 
@@ -65,6 +69,7 @@ Cth input : 4, 6, 1, 3, 5
 Cth output : 6
 ```
 > output
+
 ![ssan](https://github.com/AkuraDiary/Kuis-Logika/blob/main/ss/ssan5.png)
 
 
@@ -80,6 +85,7 @@ Cth input : N = 5, K = 10, array = [4, 1, 8, 7, 4]
 Cth output : TIDAK BISA
 ```
 > output
+
 ![ssan](https://github.com/AkuraDiary/Kuis-Logika/blob/main/ss/ssan6.png)
 
 
@@ -96,6 +102,7 @@ Cth input : N = 5,array = [4, 1, 8, 7, 1]
 Cth output : ADA
 ```
 > output
+
 ![ssan](https://github.com/AkuraDiary/Kuis-Logika/blob/main/ss/ssan7.png)
 
 
@@ -116,4 +123,5 @@ Pepaya, 10
 Cth output : Jeruk
 ```
 > output
+
 ![ssan](https://github.com/AkuraDiary/Kuis-Logika/blob/main/ss/ssan8.png)
